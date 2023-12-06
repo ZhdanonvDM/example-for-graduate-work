@@ -13,7 +13,6 @@
 
 Использованы технологии:
 
-    Java 11
     Maven
     Spring Boot 2.7.15
     Spring Security
